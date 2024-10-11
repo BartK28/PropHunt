@@ -1,0 +1,4 @@
+name: PropHunt
+version: '${project.version}'
+main: nl.seyox.prophunt.PropHunt
+api-version: '1.21'
